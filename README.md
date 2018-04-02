@@ -1,1 +1,2 @@
-# bubblememory
+KONAMI GX400基板で使うBubble memoryのエミュレータです
+最終目標は、Read/Writeおよびデータの吸い上げの予定
